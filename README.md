@@ -21,12 +21,12 @@ I will build my first portfolio using HTML and CSS withsome of web tools like Bo
 
 ## Tools:
  
- i   HTML ![alt text](<images/HTML5 Logo.png>)
- ii  CSS   ![alt text](Untitled.png)
- iii Bootstrap 5 (https://getbootstrap.com/) ![alt text](<images/Bootstrap Logo.jpg>)
+ 1 HTML ![alt text](<images/HTML5 Logo.png>)
+ 2 CSS   ![alt text](Untitled.png)
+ 3 Bootstrap 5 (https://getbootstrap.com/) ![alt text](<images/Bootstrap Logo.jpg>)
 
  ## Web sources:
 
- i   Googlefonts (https://fonts.google.com/)
- ii  Fontawesome (https://fontawesome.com/)
+ 1 Googlefonts (https://fonts.google.com/)
+ 2 Fontawesome (https://fontawesome.com/)
 
