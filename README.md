@@ -3,11 +3,11 @@
 
 Welcome, my name is Wilson Mendes.
 
-I will build my first portfolio using HTML and CSS withsome of some web tools like Bootstrap, Fontawesome and Google Font.
+I will build my first portfolio using HTML and CSS withsome of web tools like Bootstrap, Fontawesome and Google Font. Without forgeting the videos from the Code institute.
 
 ## The project idea:
 
-- Build my first portfolio to be used as practice for my future portfolio wedsite
+- Build my first portfolio to be used as practice for my future portfolio wedsite.
 
 ## Use of the project:
 
@@ -21,11 +21,12 @@ I will build my first portfolio using HTML and CSS withsome of some web tools li
 
 ## Tools:
  
- i   HTML  
- ii  CSS
- iii Bootstrap (https://getbootstrap.com/)
+ i   HTML  (HTML5 Logo.png)
+ ii  CSS   (CSS Logo.png)
+ iii Bootstrap 5(https://getbootstrap.com/)
 
  ## Web sources:
 
  i   Googlefonts (https://fonts.google.com/)
  ii  Fontawesome (https://fontawesome.com/)
+
