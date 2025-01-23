@@ -21,9 +21,9 @@ I will build my first portfolio using HTML and CSS withsome of web tools like Bo
 
 ## Tools:
  
- i   HTML  (HTML5 Logo.png)
- ii  CSS   (CSS Logo.png)
- iii Bootstrap 5(https://getbootstrap.com/)
+ i   HTML  (![alt text](<images/HTML5 Logo.png>))
+ ii  CSS   (![alt text](Untitled.png))
+ iii Bootstrap 5 (https://getbootstrap.com/)
 
  ## Web sources:
 
