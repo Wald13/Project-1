@@ -1,10 +1,28 @@
 /* Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Macondo&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200..800&family=Federo&display=swap');
 
-body {
-    font-family: "inter", sans-serif;
+header {
+    font-size: 100px;
+    position: relative;
+    text-align: center;
+
 }
-h1 {
-    font-family: "macodo", cursive
+#hello {
+color: red;
+background-color: lightblue;
+margin-left: 20px;
+}
+.greating {
+    color: blue;
+    background-color: lightcyan;
+}
+.me {
+    color: greenyellow;
+    background-color: darkorange;
+}
+
+img {
+    display: flex;
+    size: 50%;
 }
