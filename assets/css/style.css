@@ -6,8 +6,16 @@ header {
     font-size: 100px;
     position: relative;
     text-align: center;
-
+    font-weight: 900;
+    text-shadow: 8px 8px 0px black;
 }
+    /* Background Image */
+    
+.bgimg {
+    
+    }
+
+
 #hello {
 color: red;
 background-color: lightblue;
@@ -22,7 +30,6 @@ margin-left: 20px;
     background-color: darkorange;
 }
 
-img {
-    display: flex;
-    size: 50%;
+.img-fluid {
+    max-width: 50%;
 }
