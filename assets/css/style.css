@@ -10,24 +10,15 @@ header {
     text-shadow: 8px 8px 0px black;
 }
     /* Background Image */
-    
-.bgimg {
-    
-    }
-
-
 #hello {
 color: red;
-background-color: lightblue;
 margin-left: 20px;
 }
 .greating {
     color: blue;
-    background-color: lightcyan;
 }
 .me {
     color: greenyellow;
-    background-color: darkorange;
 }
 
 .img-fluid {
