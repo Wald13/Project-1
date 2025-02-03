@@ -12,43 +12,42 @@
     <link rel="apple-touch-icon" href="assets/images/favicon/apple-touch-icon.png">
 
  <!--Bootstrap 5 CSS-->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+ <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     
-    <!-- CSS Style-->
-    <link rel="stylesheet" href="assets/css/style.css">
+ <!-- CSS Style-->
+ <link rel="stylesheet" href="assets/css/style.css">
 
 </head>
-<style>
-    body {
-        background: url(assets/images/dark-concrete-texture-background-photo.jpg)  no-repeat center/cover;
-
-    }
-</style>
-
+<!--Main content-->
 <body>
-    
-    <header>Portfolio</header>
+    <header>Portfolio</header> 
+    <!--buttons-->
+    <section class="buttons">
+    <i class="fa-solid fa-bars"></i>
+    <button class="home">Home</button>
+    <button class="experiance">Experiance</button>
+    <button class="contact">Contact</button>
+    </section>
+
 <div class="container">
     <div class="row">
-        <div class="col-md-2">
+        <div class="col-md-4">
     <h1 id="hello">Hello</h1>
-    <h2 class="greating">Welcome</h2>
+    <h2 id="greating">Welcome</h2>
         </div>
     </div>    
         <div class="row">
-            <div class="col-md">
-    <img src="../assets/images/me-in-a-suit.jpg" alt="me-in-a-suit" class="img-fluid">
+            <div class="col-12">
+    <img src="assets/images/me-in-a-suit.jpg" alt="me-in-a-suit" class="img-fluid">
         </div>
     </div>
     <div class="row">
-        <div class="col">
-    <p class="me" class="row">My name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is Wilson</p>
+        <div class="col-4">
+    <p class="me row">My name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is WilsonMy name is Wilson</p>
         </div>
     </div>
 </div>
-</body>
-
-    <!--Bootstrap JS-->
+     <!--Bootstrap JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <!--Font Awesome kit-->
     <script src="https://kit.fontawesome.com/eda0f92437.js" crossorigin="anonymous"></script>
